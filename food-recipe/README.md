@@ -46,5 +46,5 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/RONAKBAGRI/Projects/tree/main/food-recipe
+   git clone https://github.com/RONAKBAGRI/codeiox_2-recipesharing
    cd food-recipe
